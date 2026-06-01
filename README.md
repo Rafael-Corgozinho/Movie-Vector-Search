@@ -5,16 +5,7 @@ Este é um Produto Mínimo Viável (MVP) para um sistema de busca semântica de 
 
 **Exemplo Prático:** Se o usuário buscar *"Quero algo como Se7en"*, o sistema não procurará a palavra "Se7en" no título, mas mapeará o significado da frase e retornará filmes com proximidade semântica (suspense policial, investigação, serial killers). A interface é otimizada para descoberta fluida, com design escuro inspirado em plataformas como Netflix e Letterboxd.
 
-## 📸 Demonstração da Interface
 
-*(Adicione a imagem da tela inicial aqui)*
-`![Tela Inicial - Discovery Mode](caminho/para/imagem_inicial.png)`
-
-*(Adicione a imagem da busca carregando aqui)*
-`![Processamento de Vetores - Loading](caminho/para/imagem_loading.png)`
-
-*(Adicione a imagem dos resultados da busca aqui)*
-`![Resultados - Cards e Similaridade](caminho/para/imagem_resultados.png)`
 
 ## 🏗️ Arquitetura e Pipeline
 
